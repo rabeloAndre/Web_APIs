@@ -85,7 +85,7 @@ print(response)
 
 [Searchly/docs](https://searchly.asuarez.dev/docs/v1)
 
-# Jikan
+## Jikan
 
 #### INTRODUÇÃO
 
@@ -136,7 +136,7 @@ print(response)
 [Jikan/docs](https://jikan.docs.apiary.io)
 
 
-# CleanURI
+## CleanURI
 
 #### INTRODUÇÃO
 Cleanuri.com expõe seus dados por meio de uma interface de programação 
