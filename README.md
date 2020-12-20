@@ -156,7 +156,7 @@ Serviço de encurtador de URL
 
 URLs longos não devem conter espaços: qualquer longUrl com espaços será rejeitado. Todos os espaços devem ter codificação de porcentagem"%20" ou codificação de mais"+". Observe que tabulações, novas linhas e espaços finais são todos indicações de erros. Lembre-se de remover os espaços em branco à esquerda e à direita de qualquer entrada do usuário antes de reduzir.
 
-#### TESTES COM MÉTODO GET
+#### TESTES COM MÉTODO POST
 
 ```python
 import requests
