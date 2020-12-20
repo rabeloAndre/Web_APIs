@@ -10,8 +10,8 @@ A API destina-se a desenvolvedores, máquinas, programas e outros sites para obt
 
 - **Browser(application/x-www-form-urlencoded)**
 
-	- #1 [https://covid-api.mmediagroup.fr/v1/cases?country=Brazil]()
-	- #2 [https://covid-api.mmediagroup.fr/v1/history?country=Brazil&status=confimerd]()
+	- #1 [https://covid-api.mmediagroup.fr/v1/cases?country=Brazil](https://covid-api.mmediagroup.fr/v1/cases?country=Brazil)
+	- #2 [https://covid-api.mmediagroup.fr/v1/history?country=Brazil&status=confimerd](https://covid-api.mmediagroup.fr/v1/history?country=Brazil&status=confimerd)
 
 - **Python**
 ```python
@@ -59,8 +59,8 @@ disponível para pesquisar músicas com uma string de consulta.
 
 - **Browser(application/x-www-form-urlencoded)**
 
-	- #1 [https://searchly.asuarez.dev/api/v1/similarity/by_song?song_id=1]()
-	- #2 [https://searchly.asuarez.dev/api/v1/song/search?query=Bruno+Mars]()
+	- #1 [https://searchly.asuarez.dev/api/v1/similarity/by_song?song_id=1](https://searchly.asuarez.dev/api/v1/similarity/by_song?song_id=1)
+	- #2 [https://searchly.asuarez.dev/api/v1/song/search?query=Bruno+Mars](https://searchly.asuarez.dev/api/v1/song/search?query=Bruno+Mars)
 
 - **Python**
 ```python
@@ -99,9 +99,9 @@ E é disso que essa API economiza. ;)
 
 - **Browser(application/x-www-form-urlencoded)**
 
-	- #1 [https://api.jikan.moe/v3/season/2020/winter]()
-	- #2 [https://api.jikan.moe/v3/top/anime]()
-	- #3 [https://api.jikan.moe/v3/search/anime?q=Naruto&limit=1]()
+	- #1 [https://api.jikan.moe/v3/season/2020/winter](https://api.jikan.moe/v3/season/2020/winter)
+	- #2 [https://api.jikan.moe/v3/top/anime](https://api.jikan.moe/v3/top/anime)
+	- #3 [https://api.jikan.moe/v3/search/anime?q=Naruto&limit=1](https://api.jikan.moe/v3/search/anime?q=Naruto&limit=1)
 
 - **Python**
 ```python
