@@ -11,7 +11,7 @@ A API destina-se a desenvolvedores, máquinas, programas e outros sites para obt
 - **Browser(application/x-www-form-urlencoded)**
 
 	- #1 [https://covid-api.mmediagroup.fr/v1/cases?country=Brazil](https://covid-api.mmediagroup.fr/v1/cases?country=Brazil)
-	- #2 [https://covid-api.mmediagroup.fr/v1/history?country=Brazil&status=confimerd](https://covid-api.mmediagroup.fr/v1/history?country=Brazil&status=confimerd)
+	- #2 [https://covid-api.mmediagroup.fr/v1/history?country=Brazil&status=confirmed](https://covid-api.mmediagroup.fr/v1/history?country=Brazil&status=confimerd)
 
 - **Python**
 ```python
@@ -36,8 +36,6 @@ print(response)
 #### DOCUMENTAÇÃO
 
 [M-Media-Group/Covid-19-API](https://github.com/M-Media-Group/Covid-19-API)
-
-
 
 ## SearchLy v1
 
